@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Selam, Ben Berkay Yayla!
 
-<!--
-**berkayayla1/berkayayla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 Moleküler Biyolog & 💻 Bilgisayar Mühendisi (ÇAP)
 
-Here are some ideas to get you started:
+İki farklı disiplini birleştirerek biyolojik verileri yazılım dünyasıyla harmanlıyorum. Karmaşık EEG sinyallerinden genom analizlerine kadar uzanan bir teknoloji yolculuğundayım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Nelerle Uğraşıyorum?
+- 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
+- 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
+- ⚡ **Algoritmalar:** Hızlı Rubik küpü çözme ve karmaşık örgü deseni analizleri.
+
+---
+
+### 🛠 Teknik Yetenekler
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### 📊 GitHub İstatistiklerim
+![Berkay's Stats](https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical)
+
+---
+
+### 📫 Bana Ulaşın
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berkayayla1)
