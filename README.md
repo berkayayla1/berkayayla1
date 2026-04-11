@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0047AB&center=false&vCenter=false&width=600&lines=Computer+Engineering+Student+(Double+Major);Molecular+Biologist+%26+Geneticist;Bioinformatician;Computational+Biologist;AI+%26+Data+Science+Specialist;FastAPI+%26+Backend+Developer;Machine+Learning+Engineer)
 ### 🧬 Moleküler Biyolog & 💻 Bilgisayar Mühendisi (ÇAP)
 
-I am a **Double Major student in Computer Engineering and Molecular Biology & Genetics**. I focus on bridging the gap between biological complexity and computational intelligence. Apart from my studies, I am a dedicated researcher and developer who loves building real-time AI systems (like my EEG analysis project, **Neuroheadstate**) and conducting bioinformatics research.
+I am a **Double Major student in Computer Engineering and Molecular Biology & Genetics**. I focus on bridging the gap between biological complexity and computational intelligence. Apart from my studies, I am a dedicated researcher and developer who loves building real-time AI systems (like my EEG analysis project, **Neuroheadstate**) and conducting bioinformatics research. While I have a strong background in life sciences, I am first and foremost a **Computer Engineering enthusiast** focused on building robust, scalable, and efficient systems.
 
 #### **My Research & Technical Interests:**
 * **Bioinformatics & Computational Biology** (Genomic data analysis, protein modeling)
@@ -18,9 +18,7 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Research internships** in Computational Biology or Software Engineering,
 * **Knowledge sharing** and contributing to open-source bioinformatics tools.
 ---
-I am a **Double Major student in Computer Engineering and Molecular Biology & Genetics**. This unique combination allows me to approach complex software problems with a deep analytical perspective. While I have a strong background in life sciences, I am first and foremost a **Software Engineering enthusiast** focused on building robust, scalable, and efficient systems.
 
-Aside from my academic research, I develop real-time AI-driven applications and high-performance backend systems. My project **Neuroheadstate** showcases my ability to integrate machine learning models into production-ready **FastAPI** architectures.
 ### 🚀 Nelerle Uğraşıyorum?
 - 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
 - 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
