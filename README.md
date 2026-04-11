@@ -29,6 +29,17 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 | **Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Uvicorn](https://img.shields.io/badge/-Uvicorn-499d8b?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Bioinformatics & Science**| ![Bioinformatics](https://img.shields.io/badge/-Genomic%20Analysis-green?style=flat-square) ![Signal Processing](https://img.shields.io/badge/-EEG%20Processing-blue?style=flat-square) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
 | **Engineering Tools** | ![Omnet++](https://img.shields.io/badge/-Omnet%2B%2B-1a5a9b?style=flat-square) ![EMU8086](https://img.shields.io/badge/-EMU8086-red?style=flat-square) ![Ripes](https://img.shields.io/badge/-Ripes-orange?style=flat-square) |
+
+## 🛠 Technical Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-894591?style=flat-square) |
+| **Frameworks & Libs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Infrastructure & DB** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Uvicorn](https://img.shields.io/badge/-Uvicorn-499d8b?style=flat-square) |
+| **Tools & IDEs** | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+| **Simulations & Specialized** | ![Omnet++](https://img.shields.io/badge/-Omnet%2B%2B-1a5a9b?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-green?style=flat-square) ![Signal Processing](https://img.shields.io/badge/-Signal%20Processing-blue?style=flat-square) |
+
 ### 🛠 Teknik Yetenekler
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
