@@ -31,12 +31,29 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 | **Simulations & Specialized** | ![Omnet++](https://img.shields.io/badge/-Omnet%2B%2B-1a5a9b?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-green?style=flat-square) ![Signal Processing](https://img.shields.io/badge/-Signal%20Processing-blue?style=flat-square) |
 
 ---
+---
+### 📈 Profile Stats & Traffic
+![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS)
+
+### 🏆 GitHub Trophies
+![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/berkayayla1/berkayayla1/blob/output/github-contribution-grid-snake.svg)
 
 ### 📊 GitHub İstatistiklerim
 ![Berkay's Stats](https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical)
 
 ---
+---
+
+### 📊 Extra Interactivity
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS" alt="visitors" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
+</p>
 
 ### 📫 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
