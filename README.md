@@ -33,43 +33,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 
 ---
 
-### 📈 Activity Graph
-![Berkay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact)
-
-### 📊 Productivity & Skill Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&hide_border=true" width="48%" />
-</p>
----
-
-### 📊 Activity & Statistics
-
-![Berkay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 Achievements
-![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=PROFILE+VISITS" alt="visitors" />
-</p>
-
-### 📊 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&count_private=true" width="48%" alt="Berkay's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical" width="48%" alt="Top Languages" />
-</p>
-
----
-
 ### 📈 Detailed Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3)
 
