@@ -55,6 +55,16 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
   <img src="https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15" alt="trophies" />
 </p>
 
-### 📫 Bana Ulaşın
+---
+
+### 📊 Extra Interactivity
+
+![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=PROFILE+VISITS)
+
+![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berkayayla1)
