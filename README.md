@@ -73,6 +73,16 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 ### 📈 Detailed Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3)
 
+### 📊 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayayla1&theme=radical" width="100%" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkayayla1&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayayla1&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayayla1&theme=radical" width="32%" />
+</p>
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berkayayla1)
