@@ -42,11 +42,11 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 ### 📊 Profile Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayayla1&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkayayla&theme=radical" width="100%" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkayayla1&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayayla1&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayayla1&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=berkayayla&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayayla&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayayla&theme=radical" width="32%" />
 </p>
 
 ### 📫 Connect with me
