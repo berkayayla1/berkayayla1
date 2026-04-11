@@ -20,7 +20,15 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Research internships** in Computational Biology or Computer/Software Engineering,
 * **Knowledge sharing** and contributing to open-source bioinformatics tools and large-scale software projects.
 ---
+### 🛠 Technical Skills
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly%20(8086/RISC--V)-894591?style=flat-square) |
+| **AI & Data Science** | ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) |
+| **Backend & Deployment** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![Uvicorn](https://img.shields.io/badge/-Uvicorn-499d8b?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Bioinformatics & Science**| ![Bioinformatics](https://img.shields.io/badge/-Genomic%20Analysis-green?style=flat-square) ![Signal Processing](https://img.shields.io/badge/-EEG%20Processing-blue?style=flat-square) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+| **Engineering Tools** | ![Omnet++](https://img.shields.io/badge/-Omnet%2B%2B-1a5a9b?style=flat-square) ![EMU8086](https://img.shields.io/badge/-EMU8086-red?style=flat-square) ![Ripes](https://img.shields.io/badge/-Ripes-orange?style=flat-square) |
 ### 🛠 Teknik Yetenekler
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
