@@ -33,7 +33,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 | **Infrastructure & DB** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Uvicorn](https://img.shields.io/badge/-Uvicorn-499d8b?style=flat-square) |
 | **Tools & IDEs** | ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
 | **Simulations & Specialized** | ![Omnet++](https://img.shields.io/badge/-Omnet%2B%2B-1a5a9b?style=flat-square) ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-green?style=flat-square) ![Signal Processing](https://img.shields.io/badge/-Signal%20Processing-blue?style=flat-square) |
-
 ---
 
 ### 📈 Detailed Contribution Graph
