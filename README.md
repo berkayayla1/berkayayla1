@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=PROFILE+VISITS" alt="visitors" />
+</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS)
 
