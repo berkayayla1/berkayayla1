@@ -1,6 +1,6 @@
 <p align="center">
 ![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS)
-</p>
+ </p>
 # 👋 Hi there, I'm Berkay Yayla!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0047AB&center=false&vCenter=false&width=600&lines=Computer+Engineering+Student+(Double+Major);Molecular+Biologist+%26+Geneticist;Bioinformatician;Computational+Biologist;AI+%26+Data+Science+Specialist;FastAPI+%26+Backend+Developer;Machine+Learning+Engineer)
