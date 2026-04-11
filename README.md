@@ -48,6 +48,17 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayayla1&theme=radical" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayayla1&theme=radical" width="32%" />
 </p>
+---
+
+### 📫 Contact with me
+<p align="left">
+<a href="https://www.linkedin.com/in/berkay-yayla-82b207208/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yaylaberkay07@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</p>
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
