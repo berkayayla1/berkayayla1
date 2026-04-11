@@ -19,6 +19,18 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Knowledge sharing** and contributing to open-source bioinformatics tools.
 ---
 
+#### **My Engineering & Technical Interests:**
+* **Backend Development & System Architecture** (Scalable APIs, Microservices)
+* **High-Performance Computing & Low-Level Programming** (C++, 8086/RISC-V Architecture)
+* **Artificial Intelligence & Machine Learning Operations (MLOps)**
+* **Signal Processing & Real-time Data Streaming**
+* **Algorithm Design & Data Structures**
+
+#### **I am open to:**
+* **Software Engineering Internships** (Backend, Full-stack, or Embedded systems),
+* **Machine Learning & Data Engineering roles**,
+* **Research & Development (R&D) collaborations**,
+* **Contributing to large-scale open-source software projects.**
 ### 🚀 Nelerle Uğraşıyorum?
 - 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
 - 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
