@@ -36,6 +36,12 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 ### 📈 Activity Graph
 ![Berkay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact)
 
+### 📊 Productivity & Skill Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&hide_border=true" width="48%" />
+</p>
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berkayayla1)
