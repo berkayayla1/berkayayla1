@@ -18,7 +18,9 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Research internships** in Computational Biology or Software Engineering,
 * **Knowledge sharing** and contributing to open-source bioinformatics tools.
 ---
+I am a **Double Major student in Computer Engineering and Molecular Biology & Genetics**. This unique combination allows me to approach complex software problems with a deep analytical perspective. While I have a strong background in life sciences, I am first and foremost a **Software Engineering enthusiast** focused on building robust, scalable, and efficient systems.
 
+Aside from my academic research, I develop real-time AI-driven applications and high-performance backend systems. My project **Neuroheadstate** showcases my ability to integrate machine learning models into production-ready **FastAPI** architectures.
 ### 🚀 Nelerle Uğraşıyorum?
 - 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
 - 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
