@@ -49,6 +49,7 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=berkayayla1&theme=radical" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=berkayayla1&theme=radical" width="32%" />
 </p>
+
 ---
 
 ### 📫 Contact with me
