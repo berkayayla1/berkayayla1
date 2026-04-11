@@ -37,7 +37,9 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 
 ### 📈 Detailed Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3)
+
 ---
+
 ### 📊 Profile Summary Cards
 
 <p align="center">
