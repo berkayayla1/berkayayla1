@@ -21,10 +21,7 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Knowledge sharing** and contributing to open-source bioinformatics tools and large-scale software projects.
 ---
 
-### 🚀 Nelerle Uğraşıyorum?
-- 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
-- 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
-- ⚡ **Algoritmalar:** Hızlı Rubik küpü çözme ve karmaşık örgü deseni analizleri.
+
 
 ---
 
