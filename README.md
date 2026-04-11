@@ -63,6 +63,8 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 ![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
 
 ---
+### 📈 Activity Graph
+![Berkay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berkayayla1&theme=github-compact)
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berkayyayla)
