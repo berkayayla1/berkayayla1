@@ -21,10 +21,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Knowledge sharing** and contributing to open-source bioinformatics tools and large-scale software projects.
 ---
 
-
-
----
-
 ### 🛠 Teknik Yetenekler
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
