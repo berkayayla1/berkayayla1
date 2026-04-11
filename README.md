@@ -1,3 +1,4 @@
+<p align="center">
 ![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS)
 # 👋 Hi there, I'm Berkay Yayla!
 
