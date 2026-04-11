@@ -10,7 +10,7 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Signal Processing** (EEG/Neural data, PSD analysis)
 * **Machine Learning & Data Science** (Semi-supervised learning, PCA, Classification)
 * **Backend Development** (Building scalable APIs with FastAPI)
-* * **Algorithm Design & Data Structures**
+* **Algorithm Design & Data Structures**
 * **Bio-inspired AI Models**
 
 #### **I am open to:**
@@ -21,12 +21,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 * **Knowledge sharing** and contributing to open-source bioinformatics tools and large-scale software projects.
 ---
 
-
-#### **I am open to:**
-* **Software Engineering Internships** (Backend, Full-stack, or Embedded systems),
-* **Machine Learning & Data Engineering roles**,
-* **Research & Development (R&D) collaborations**,
-* **Contributing to large-scale open-source software projects.**
 ### 🚀 Nelerle Uğraşıyorum?
 - 🧠 **Neuroheadstate:** EEG verilerini FastAPI ve ML ile gerçek zamanlı sınıflandırma.
 - 🌽 **Bioinformatics:** Zea mays (Mısır) genomu üzerine akademik analizler.
