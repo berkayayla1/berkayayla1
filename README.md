@@ -3,7 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0047AB&center=false&vCenter=false&width=600&lines=Computer+Engineering+Student+(Double+Major);Molecular+Biologist+%26+Geneticist;Bioinformatician;Computational+Biologist;AI+%26+Data+Science+Specialist;FastAPI+%26+Backend+Developer;Machine+Learning+Engineer)
 ### 🧬 Moleküler Biyolog & 💻 Bilgisayar Mühendisi (ÇAP)
 
-İki farklı disiplini birleştirerek biyolojik verileri yazılım dünyasıyla harmanlıyorum. Karmaşık EEG sinyallerinden genom analizlerine kadar uzanan bir teknoloji yolculuğundayım.
+I am a **Double Major student in Computer Engineering and Molecular Biology & Genetics**. I focus on bridging the gap between biological complexity and computational intelligence. Apart from my studies, I am a dedicated researcher and developer who loves building real-time AI systems (like my EEG analysis project, **Neuroheadstate**) and conducting bioinformatics research on plant genomes.
+
+#### **My Research & Technical Interests:**
 
 ---
 
