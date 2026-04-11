@@ -34,15 +34,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 ---
 ---
 
-### 🏆 GitHub Trophies
-![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/berkayayla1/berkayayla1/blob/output/github-contribution-grid-snake.svg)
-
-### 📊 GitHub İstatistiklerim
-![Berkay's Stats](https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayayla1&layout=compact&theme=radical)
 
 ---
 ---
