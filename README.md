@@ -33,8 +33,6 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 
 ---
 ---
-### 📈 Profile Stats & Traffic
-![Visitors](https://komarev.com/ghpvc/?username=berkayayla1&color=0047AB&style=flat-square&label=VISITORS)
 
 ### 🏆 GitHub Trophies
 ![Berkay's Trophies](https://github-profile-trophy.vercel.app/?username=berkayayla1&theme=radical&no-frame=true&margin-w=15)
