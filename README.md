@@ -7,24 +7,20 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 
 #### **My Research & Technical Interests:**
 * **Bioinformatics & Computational Biology** (Genomic data analysis, protein modeling)
-* **Signal Processing** (EEG/Neural data, PSD analysis, Berger Effect)
+* **Signal Processing** (EEG/Neural data, PSD analysis)
 * **Machine Learning & Data Science** (Semi-supervised learning, PCA, Classification)
 * **Backend Development** (Building scalable APIs with FastAPI)
+* * **Algorithm Design & Data Structures**
 * **Bio-inspired AI Models**
 
 #### **I am open to:**
+* **Software Engineering Internships** (Backend, Full-stack, or Embedded systems),
 * **Interdisciplinary collaboration work** (Combining Biology + Tech),
 * **Machine Learning projects** (Development or Research),
-* **Research internships** in Computational Biology or Software Engineering,
-* **Knowledge sharing** and contributing to open-source bioinformatics tools.
+* **Research internships** in Computational Biology or Computer/Software Engineering,
+* **Knowledge sharing** and contributing to open-source bioinformatics tools and large-scale software projects.
 ---
 
-#### **My Engineering & Technical Interests:**
-* **Backend Development & System Architecture** (Scalable APIs, Microservices)
-* **High-Performance Computing & Low-Level Programming** (C++, 8086/RISC-V Architecture)
-* **Artificial Intelligence & Machine Learning Operations (MLOps)**
-* **Signal Processing & Real-time Data Streaming**
-* **Algorithm Design & Data Structures**
 
 #### **I am open to:**
 * **Software Engineering Internships** (Backend, Full-stack, or Embedded systems),
