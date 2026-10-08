@@ -37,7 +37,7 @@ I am a **Double Major student in Computer Engineering and Molecular Biology & Ge
 
 ### 📈 Detailed Contribution Graph
 ![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkayayla1&show_icons=true&theme=radical)
-
+![Snake animation](https://raw.githubusercontent.com/berkayayla1/berkayayla1/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 📊 Profile Summary Cards
